@@ -94,6 +94,12 @@ main .cartao-pokemon .tipo {
 	border-radius: 10px;
 }
 
+main .cartao-pokemon .voador {
+	background: linear-gradient(180deg, #3dc7ef, #bdb9b8); /* Cor azul (top) e cinza (bottom) */
+	width: 60px; /* Largura da div */
+	height: 20px; /* Altura da div */
+  }
+
 
 
 .grama {
